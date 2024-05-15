@@ -1,0 +1,853 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+.slide1{
+    width: 100% ;
+    height: 100%;
+    gap: 0px;
+    opacity: 0px;
+    position: relative;
+    background-color: #FFD9C3;
+    padding-bottom: 4%;
+}
+
+.header1{
+    display: flex;
+    width: 80%;
+    height: 78px;
+    top: 0px;
+    padding-left: 10%;
+    opacity: 0px;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.fon_img{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    opacity: 0.03;
+}
+
+.texts_header{
+    display: flex;
+    gap: 50px;
+}
+
+.button1{
+    width: 200px;
+    height: 50px;
+    gap: 0px;
+    border-radius: 25px;
+    border: none;
+    opacity: 0px;
+    color: white;
+    font-family: Josefin Sans;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    background: linear-gradient(94.66deg, #4499D9 17.46%, #7367BE 87.77%);  
+}
+
+.button11{
+    width: 200px;
+    height: 50px;
+    gap: 0px;
+    border-radius: 25px;
+    border: none;
+    opacity: 0px;
+    color: white;
+    font-family: Josefin Sans;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    background: linear-gradient(94.66deg, #4499D9 17.46%, #7367BE 87.77%);  
+}
+
+.text_header{
+    gap: 0px;
+    opacity: 0px;
+    font-family: Josefin Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #446381;
+}
+
+body{
+    display: block;
+    margin: 0px;
+}
+
+.slide1_2{ 
+    position: absolute;
+    width: 536.8px;
+    height: 475.8px;
+    top: 40%;
+    left: 0;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.main_text_slide1{  
+    width: 500px;
+    height: 540.8px;
+    padding-left: 8%;
+    gap: 0px;
+    border-radius: 25px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.text_gaming_consoles{
+    gap: 0px;
+    opacity: 0px;
+    font-family: Josefin Sans;
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #446381;
+}
+.start_main_text_slide1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 150px;
+    margin-bottom: -45px;
+}
+
+.text_qwe{
+    gap: 0px;
+    opacity: 0px;
+    font-family: Josefin Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29px;
+    color: #446381;
+    text-align: justify;
+}
+
+.asd{
+    padding-top: 5%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 5%;
+}
+
+.qwe{
+    max-height: 100%;
+    max-width: 100%;
+    
+}
+
+.big_text{
+    font-size: 58px;
+    line-height: 75px;
+    font-family: Josefin Sans;
+    font-weight: 700;
+    color: #EB8382;
+    margin-bottom: 0px;
+}
+
+.big_text_1{
+    font-size: 58px;
+    line-height: 75px;
+    font-family: Josefin Sans;
+    font-weight: 700;
+    color: #446370;
+}
+
+.character{
+    margin-right: 100px;
+}
+
+.img3{
+    position: absolute;
+    bottom: 40%;
+    left: 90%;
+}
+
+.slide2{
+    width: 100% ;
+    height: 100%;
+    gap: 1%;
+    opacity: 0px;
+    background-color: #FFD9C3;
+    display:flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.charcter2{
+    padding-left: 3%;
+    padding-top: 10%;
+    padding-bottom: 8%;
+}
+
+.charcter3{
+    position: absolute;
+    right: 0;
+    width: 25%;
+}
+
+.text_slide2{
+    padding-left: 4%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+.VR{
+    position: absolute;
+    bottom: 0;
+    padding-left: 50%;
+
+}
+
+.text_slide2_l1{
+    font-family: Josefin Sans;
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #446381;
+}
+
+.text_slide2_l2{
+    font-family: Josefin Sans;
+    font-size: 68px;
+    font-weight: 700;
+    line-height: 75px;
+    text-align: left;
+    color: #EB8382;
+
+}
+
+.text_slide2_l3{
+    font-family: Josefin Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29px;
+    text-align:justify;
+    color: #826F8C;
+}
+.dddddddddd{
+    padding-right: 20%;
+}
+.slide2_div_img_arrows{
+    margin-left: 50%;
+    margin-right: -50%;
+}
+
+.slide3{ 
+    width: 100% ;
+    height: 100%;
+    background-color: #FFD9C3;
+    position: relative;
+}
+
+.fon_img2{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    opacity: 0.04;
+}
+
+.asd2{
+    display:flex;
+    justify-content: space-between;
+    gap: 6%;
+    padding-left: 10%;
+    padding-bottom: 10%;
+    padding-top: 5%;
+    padding-right: 4%;
+}
+
+.text_slide3_l3{
+    font-family: Josefin Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29px;
+    text-align:justify;
+    color: #826F8C;
+    padding-right: 8%;
+}
+
+.slide2_div_img_arrows2{
+    margin-left: 75%;
+}
+
+.our_pricing{
+    font-family: Josefin Sans;
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #446381;
+}
+.center{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.Choose_plan{ 
+    font-family: Josefin Sans;
+    font-size: 68px;
+    font-weight: 700;
+    line-height: 75px;
+    text-align: left;
+    color: #EB8382;
+}
+
+.prices_slide3{
+    display: flex;
+    position: relative;
+    align-content: center;
+    justify-content: center;
+    gap:5%;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.slide4{
+    width: 100% ;
+    height: 100%;
+    opacity: 0px;
+    background-color: #FFD9C3;
+    position: relative;
+    padding-bottom: 6%;
+}
+
+.ahahaha{
+    font-family: Josefin Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: #446381;
+}
+
+.bebe1{
+    font-family: Josefin Sans;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: left;
+    color: #EB8382;
+}
+
+.bebe2{
+    font-family: Josefin Sans;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    color: #EB8382;
+}
+
+.card1{
+    position: relative;
+    background: #FBDACF;
+    padding-left: 2%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    border-radius: 5%;
+    margin-bottom: 5%;
+    margin-top: 2%;
+}
+
+.points_of_price{
+    display: flex;
+    position: relative;
+    gap: 10%
+}
+
+.text_points_1{
+    font-family: Josefin Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: left;
+    color: #826F8C;
+}
+
+
+.card2{
+    background: #778899;
+    padding-left: 2%;
+    padding-right: 3%;
+    border-radius: 5%;
+    position: relative;
+
+}
+
+.button2{
+    width: 300px;
+    height: 50px;
+    gap: 0px;
+    border-radius: 25px;
+    border: none;
+    opacity: 0px;
+    color: white;
+    font-family: Josefin Sans;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    background: linear-gradient(94.66deg, #4499D9 17.46%, #7367BE 87.77%);
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-right: 10%;
+}
+
+.text_points_2{
+    font-family: Josefin Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: left;
+    color: white;
+}
+
+.ahahaha2{
+    font-family: Josefin Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: white;
+    padding-top: 15%;
+}
+
+.fff{
+    display: flex;
+    justify-content: space-between;
+}
+
+.aaad{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+
+footer{
+    background: #FBDACF;
+}
+
+.footer_div{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 1.2%;
+    padding-top: 1.5%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.dddfs{
+    font-family: Josefin Sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(130, 111, 140, 1);
+}
+
+@media screen and (max-width: 1200px){
+    .header1{
+        width: 90%;
+    }
+
+    .asd{
+        flex-direction: column;
+    }
+    
+    .texts_header{
+        padding-left: 8%;
+        padding-left: 10px;
+        padding-right: 35px;
+        gap: 20px;
+    }
+
+    .start_main_text_slide1{
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .main_text_slide1{
+        width: 90%;
+        height: 90%;
+    }
+
+    .text_gaming_consoles{
+        font-size: 55px;
+    }
+
+    .text_qwe{
+        font-size: 40px;
+        text-align:justify;
+        padding-right: 5%;
+        line-height: 45px;
+    }
+
+    .button1{
+        align-self: center;
+        margin-bottom: 2%;
+        width: 180px;
+    }
+
+    .character{
+        display: none;
+    }
+
+    .big_text{
+        text-align: center;
+        font-size: 80px;
+    }
+
+    .slide1_2{
+        display: none;
+    }
+
+    .img3{
+        bottom: 0;
+        bottom: 5%;
+        left: 75%
+    }
+
+    .header1{
+        padding-left: 2%;
+    }
+
+    .texts_header{
+        padding-left: 50px;
+    }
+
+    .text_header{
+        font-size: 20px;
+    }
+
+    .charcter2{
+        width: 80%;
+        padding-left: 10%;
+    }
+
+    .slide2{
+        flex-wrap: wrap-reverse;
+    }
+
+    .text_slide2_l2{
+        text-align: center;
+    }
+
+    .text_slide2_l3{
+        font-size: 40px;
+        text-align:justify;
+        line-height: 45px;
+        padding-left: 10%;
+    }
+
+    .charcter3{
+        bottom: 60%;
+        width: 40%;
+    }
+
+    .text_slide2_l1{
+        text-align: center;
+        font-size: 50px;
+    }
+
+    .VR{
+        position: absolute;
+        bottom: 60%;
+        padding-left: 10%;
+    }
+
+    .img_arrows_slide2{
+        width: 14%;
+    }
+    
+    .prices_slide3{
+        flex-wrap: wrap;
+        gap: 50px;
+    }
+
+    .text_points_1{
+        font-size: 50px;
+    }
+
+    .text_points_2{
+        font-size: 50px;
+    }
+
+    .ahahaha2{
+        font-size: 80px;
+        text-align: center;
+    }
+
+    .ahahaha{
+        font-size: 80px;
+        text-align: center;
+    }
+
+    .button2{
+        width: 700px;
+        height: 80px;
+        font-size: 40px;
+    }
+
+    .bebe1{
+        font-size: 100px;
+        margin-bottom: -0.02%;
+    }
+
+    .bebe2{
+        font-size: 60px;
+    }    
+
+    .Choose_plan{
+        margin-top: 10px;
+        margin-bottom: 25px;
+        font-size: 90px;
+    }
+
+    .badge{
+        width: 20%;
+    }
+
+    .our_pricing{
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .button11{
+        width: 450px;
+        height: 100px;
+        font-size: 42px;
+        margin-top: 30px;
+        margin-left: 80px;
+    }
+
+    .asd2{
+        flex-wrap: wrap;
+    }
+
+    .dddddddddd{
+        padding-right: 30%;
+    }
+
+    .text_slide3_l3{
+        font-size: 40px;
+        text-align:justify;
+        line-height: 45px;
+    }
+
+    .character44{
+        width: 100%;
+        padding-left: 6%;
+    }
+
+    .img_arrows_slide3{
+        width: 42%;
+    }
+}
+
+@media screen and (width= 820px) and (height= 1180px){
+    .header1{
+        width: 70%;
+    }
+
+    .asd{
+        flex-direction: column;
+    }
+    
+    .texts_header{
+        padding-left: 8%;
+        padding-left: 10px;
+        padding-right: 35px;
+        gap: 60px;
+    }
+
+    .start_main_text_slide1{
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .main_text_slide1{
+        width: 90%;
+        height: 90%;
+    }
+
+    .text_gaming_consoles{
+        font-size: 55px;
+    }
+
+    .text_qwe{
+        font-size: 40px;
+        text-align:justify;
+        padding-right: 5%;
+        line-height: 45px;
+    }
+
+    .button1{
+        align-self: center;
+        margin-bottom: 2%;
+        display: none;
+    }
+
+
+    .character{
+        display: none;
+    }
+
+    .big_text{
+        text-align: center;
+        font-size: 80px;
+    }
+
+    .slide1_2{
+        display: none;
+    }
+
+    .img3{
+        bottom: 0;
+        bottom: 5%;
+        left: 75%
+    }
+
+    .header1{
+        padding-left: 2%;
+    }
+
+    .texts_header{
+        padding-left: 50px;
+    }
+
+    .text_header{
+        font-size: 20px;
+    }
+
+    .charcter2{
+        width: 80%;
+        padding-left: 10%;
+    }
+
+    .slide2{
+        flex-wrap: wrap-reverse;
+    }
+
+    .text_slide2_l2{
+        text-align: center;
+    }
+
+    .text_slide2_l3{
+        font-size: 40px;
+        text-align:justify;
+        line-height: 45px;
+        padding-left: 10%;
+    }
+
+    .charcter3{
+        bottom: 60%;
+        width: 40%;
+    }
+
+    .text_slide2_l1{
+        text-align: center;
+        font-size: 50px;
+    }
+
+    .VR{
+        position: absolute;
+        bottom: 60%;
+        padding-left: 10%;
+    }
+
+    .img_arrows_slide2{
+        width: 14%;
+    }
+    
+    .prices_slide3{
+        flex-wrap: wrap;
+        gap: 50px;
+    }
+
+    .text_points_1{
+        font-size: 35px;
+    }
+
+    .text_points_2{
+        font-size: 35px;
+    }
+
+    .ahahaha2{
+        font-size: 75px;
+        text-align: center;
+    }
+
+    .ahahaha{
+        font-size: 80px;
+        text-align: center;
+    }
+
+    .button2{
+        width: 500px;
+        height: 80px;
+        font-size: 40px;
+    }
+
+    .bebe1{
+        font-size: 85px;
+        margin-bottom: -0.02%;
+    }
+
+    .bebe2{
+        font-size: 50px;
+    }    
+
+    .Choose_plan{
+        margin-top: 10px;
+        margin-bottom: 25px;
+        font-size: 80px;
+    }
+
+    .badge{
+        width: 14%;
+    }
+
+    .our_pricing{
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .button11{
+        width: 450px;
+        height: 100px;
+        font-size: 42px;
+        margin-top: 30px;
+        margin-left: 80px;
+    }
+
+    .asd2{
+        flex-wrap: wrap;
+    }
+
+    .dddddddddd{
+        padding-right: 30%;
+    }
+
+    .text_slide3_l3{
+        font-size: 40px;
+        text-align:justify;
+        line-height: 45px;
+    }
+
+    .character44{
+        width: 100%;
+        padding-left: 6%;
+    }
+
+    .img_arrows_slide3{
+        width: 42%;
+    }
+}
